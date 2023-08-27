@@ -1,0 +1,21 @@
+\section{Background}
+\label{sec:background}
+
+As we have discussed in Section \ref{sec:introudction}.
+\lipsum[1]
+
+\subsection{The history of computer science}
+\label{subsec:the-history-of-computer-science}
+\lipsum[2]
+
+\subsection{Greatest computer scientists}
+\label{subsec:greatest-computer-scientists}
+\lipsum[3]
+
+\subsection{New era of a inter-connected world}
+\label{subsec:new-era-of-a-inter-connected-world}
+\lipsum[4]
+
+\subsection{The age of artificial intelligence}
+\label{subsec:the-age-of-artificial-intelligence}
+\lipsum[5]

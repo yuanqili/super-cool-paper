@@ -1,0 +1,49 @@
+\documentclass[12pt]{article}
+
+% page size
+\usepackage[a4paper,top=1.5in,bottom=1.5in,left=1in,right=1in]{geometry}
+
+% line spacing
+\usepackage{setspace} \setstretch{1.5}
+
+% times new roman font
+\usepackage{times}
+
+% text alignment
+\usepackage{ragged2e}
+\RaggedRight
+\hyphenpenalty=10000
+
+\usepackage{url, hyperref}
+\usepackage{lipsum}
+\usepackage{graphicx}
+\usepackage{booktabs, makecell}
+\usepackage{mhchem, chemformula}
+\usepackage{amsmath, amsfonts, amssymb, amsthm}
+
+\title{A very complex comparative study of some super hard topic in computer science}
+\author{
+    Yuanqi Li\\
+    Department of Computer Science\\
+    \texttt{\href{mailto:yuanqili@princeton.edu}{yuanqili@princeton.edu}}
+}
+\date{August 2023}
+
+\begin{document}
+    \maketitle
+    \input{sections/00-abstract.tex}
+    \clearpage
+    
+    \tableofcontents
+    \clearpage
+    
+    \input{sections/01-introduction.tex}
+    \input{sections/02-background.tex}
+    \input{sections/03-method.tex}
+    \input{sections/04-evaluation.tex}
+    \input{sections/05-conclusion.tex}
+    \input{sections/06-acknowledgement.tex}
+
+    \bibliographystyle{alpha}
+    \bibliography{references}
+\end{document}

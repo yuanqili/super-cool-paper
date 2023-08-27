@@ -1,0 +1,13 @@
+\begin{thebibliography}{Sto21}
+
+\bibitem[BL13]{book:benson13}
+Carol~Coye Benson and Scott Loftesness.
+\newblock {\em {Payments Systems in the U.S.}}
+\newblock Glenbrook Partners, LLC, Menlo Park, California, United States, 2013.
+
+\bibitem[Sto21]{test:book}
+James~V Stone.
+\newblock {\em {This is the book title}}.
+\newblock Sebtel Press, London, 2021.
+
+\end{thebibliography}
